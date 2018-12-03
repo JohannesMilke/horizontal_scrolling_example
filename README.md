@@ -1,8 +1,3 @@
-# advent3_horizontal_scrolling
+# HorizontalScrolling
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Scroll images horizontally like in a gallery
